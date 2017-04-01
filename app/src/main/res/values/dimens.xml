@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="altura_imagen_item">190dp</dimen>
+    <dimen name="espacio_norma_1">16dp</dimen>
+    <dimen name="main_horizontal_margin">14dp</dimen>
+
+    <dimen name="card_item_title">16sp</dimen>
+    <dimen name="app_bar_height">180sp</dimen>
+    <dimen name="fab_margin">16sp</dimen>
+
+</resources>

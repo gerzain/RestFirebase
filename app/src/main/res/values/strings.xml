@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CuponesApp</string>
+    <string name="ver_promocion">Ver promocion</string>
+    <string name="promocion">Promocion</string>
+    <string name="valido">Valido</string>
+    <string name="check_hospital_phone">telefono</string>
+    <string name="check_hospital_address">direccion</string>
+    <string name="fecha">27-04-2017</string>
+    <string name="contenido">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="valido_hasta">Valido hasta</string>
+</resources>

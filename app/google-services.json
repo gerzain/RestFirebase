@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965359959347",
+    "firebase_url": "https://cupones-36d3e.firebaseio.com",
+    "project_id": "cupones-36d3e",
+    "storage_bucket": "cupones-36d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965359959347:android:3802f3bfa3131b08",
+        "android_client_info": {
+          "package_name": "com.example.irving.cuponesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965359959347-bk5hb5hbkhfcvdunb3do55v66q43gjjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFI8gEEHNhWeq-pa8gn3f3Ai7OV0bGD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
